@@ -1,16 +1,5 @@
-# gpa_calculator
+# GPA Calculator
 
-A new Flutter project.
+## Overview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GPA Calculator is a Flutter application that helps students easily calculate their Grade Point Average (GPA) based on entered courses, credit hours, and grades. The app features a simple and user-friendly interface, ensuring quick calculations and accurate results. It is designed to assist students in tracking their academic performance and planning their studies more effectively.
